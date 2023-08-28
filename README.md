@@ -13,9 +13,9 @@ Dive into our comprehensive analyses of Cardano projects:
 ## Scoring Criteria
 <!-- ![Scoring Overview](link_to_your_screenshot) -->
 
-Below is a detailed breakdown of our scoring criteria.
+Below is a detailed breakdown of our scoring criteria. Note that we may change the weighting of these categories for the evalution of several projects within a given category. This can, at times, produce a more accurate result; such as the case of a project that lacks any sort of code, with reason. 
  
-For more, please view our DD Overview Sheet, [here](https://docs.google.com/spreadsheets/d/1bRnF-qOaQLJqkO7p-c3ypTTW7-qxpJ5c5JbwWrGxAQE).
+Please view our DD Overview Sheet for more, available [here](https://docs.google.com/spreadsheets/d/1bRnF-qOaQLJqkO7p-c3ypTTW7-qxpJ5c5JbwWrGxAQE).
 
 | Category          | Weight | Sub-Criteria                    | Points Possible |
 |-------------------|--------|---------------------------------|-----------------|
@@ -47,8 +47,10 @@ Projects are assigned a risk rating based on their total score:
 
 We will continue to release reports on an ongoing basis. Here are our current completed summaries:
 
-- [PoS Capital](https://github.com/dyv-in/due-diligence/blob/main/projectCatalyst/fund10/catalystFundOperations/posCapital.pdf)
-- [Catalyst Evolution](https://github.com/dyv-in/due-diligence/blob/main/projectCatalyst/fund10/catalystFundOperations/catalystEvolution.pdf)
+#### Project Catalyst, Fund 10
+- Catalyst Fund Operations category
+   - [PoS Capital](https://github.com/dyv-in/due-diligence/blob/main/projectCatalyst/fund10/catalystFundOperations/posCapital.pdf)
+   - [Catalyst Evolution](https://github.com/dyv-in/due-diligence/blob/main/projectCatalyst/fund10/catalystFundOperations/catalystEvolution.pdf)
 
 ## Contributing
 
