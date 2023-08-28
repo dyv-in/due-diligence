@@ -13,8 +13,9 @@ Dive into our comprehensive analyses of Cardano projects:
 ## Scoring Criteria
 <!-- ![Scoring Overview](link_to_your_screenshot) -->
 
-Below is a detailed breakdown of our scoring criteria. 
-For more, please view our DD Overview Sheet, ![here](https://docs.google.com/spreadsheets/d/1bRnF-qOaQLJqkO7p-c3ypTTW7-qxpJ5c5JbwWrGxAQE/edit?usp=sharing).
+Below is a detailed breakdown of our scoring criteria.
+ 
+For more, please view our DD Overview Sheet, [here](https://docs.google.com/spreadsheets/d/1bRnF-qOaQLJqkO7p-c3ypTTW7-qxpJ5c5JbwWrGxAQE).
 
 | Category          | Weight | Sub-Criteria                    | Points Possible |
 |-------------------|--------|---------------------------------|-----------------|
