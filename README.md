@@ -51,6 +51,7 @@ We will continue to release reports on an ongoing basis. Here are our current co
 - Catalyst Fund Operations category
    - [PoS Capital](https://github.com/dyv-in/due-diligence/blob/main/projectCatalyst/fund10/catalystFundOperations/posCapital.pdf)
    - [Catalyst Evolution](https://github.com/dyv-in/due-diligence/blob/main/projectCatalyst/fund10/catalystFundOperations/catalystEvolution.pdf)
+   - [Evolute](https://github.com/dyv-in/due-diligence/blob/main/projectCatalyst/fund10/catalystFundOperations/evolute.pdf)
 
 ## Contributing
 
